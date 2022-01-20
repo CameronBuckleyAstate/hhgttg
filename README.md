@@ -6,6 +6,8 @@ You'll find a copy of the book and audiobook files below, as well as important d
 
 As we find interesting things, we will add them to this page.
 
+[Play the Game](https://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-game-30th-anniversary-edition)
+
 <iframe width="400" src="https://www.youtube.com/embed/eLdiWe_HJv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Calendar
