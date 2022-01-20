@@ -1,5 +1,5 @@
 ## Hitchhiker's Guide to the Galaxy Book Club
-![Img](https://i5.walmartimages.com/asr/52c19004-02cb-4183-94c5-b8024532d601_1.17aa20c0bd40d9c8a5d1ec246764fd28.jpeg)
+
 Welcome to our book club website for HHGTTG at The Delta School!
 
 You'll find a copy of the book and audiobook files below, as well as important dates to keep track of.
