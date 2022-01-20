@@ -6,6 +6,8 @@ You'll find a copy of the book and audiobook files below, as well as important d
 
 As we find interesting things, we will add them to this page.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eLdiWe_HJv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Calendar
 ### February 2nd 2022
 Have the first book finished by this date and ready to discuss.
