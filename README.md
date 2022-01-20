@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Hitchhiker's Guide to the Galaxy Book Club
 
-You can use the [editor on GitHub](https://github.com/CameronBuckleyAstate/hhgttg/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to our book club website for HHGTTG at The Delta School!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You'll find a copy of the book and audiobook files below, as well as important dates to keep track of.
+
+As we find interesting things, we will add them to this page.
 
 ### Markdown
 
