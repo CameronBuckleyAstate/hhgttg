@@ -6,6 +6,13 @@ You'll find a copy of the book and audiobook files below, as well as important d
 
 As we find interesting things, we will add them to this page.
 
+## Calendar
+### February 2nd 2022
+Have the first book finished by this date and ready to discuss.
+
+### February 16th 2022
+Have the second book finished by this date and ready to discuss.
+
 ## Ebook Copy
 [Download Here](https://drive.google.com/file/d/15UUFY04A3w8y4RxhhA4ihyW5Fxogw4Tz/view?usp=sharing)
 
