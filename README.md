@@ -6,24 +6,9 @@ You'll find a copy of the book and audiobook files below, as well as important d
 
 As we find interesting things, we will add them to this page.
 
-### Markdown Syntax Guide
+## Ebook Copy
+[Download Here](https://drive.google.com/file/d/15UUFY04A3w8y4RxhhA4ihyW5Fxogw4Tz/view?usp=sharing)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Audiobook Copy
+[Download Here](https://drive.google.com/drive/folders/18CvI8WuO0DqnEh_ZkVz2yFAIEC7DMr-0?usp=sharing)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-``'
